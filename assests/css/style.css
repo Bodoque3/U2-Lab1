@@ -1,0 +1,44 @@
+.cuerpo{
+    background-color: lightgray;
+}
+
+.tabla-inicio{
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+}
+
+.title1{
+    text-align: center;
+}
+
+.container{
+    margin: 5%;
+}
+
+.izquierda{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.derecha{
+    float: right;
+    text-align: center;
+    margin-right: 10%;
+}
+
+.Imagen3{
+    margin: 2%;
+margin-left: 15%;
+}
+
+.title2{
+    text-align: center;
+}
+
+.estilo-tabla{
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+}
